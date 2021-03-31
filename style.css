@@ -1,0 +1,26 @@
+/* Example styling of a h1 element */
+body {
+  background-image: url("paper.gif");
+}
+h1 {
+  color:#dd15bc;
+  font-size:100px;
+  font-style: bold;
+  margin: 2cm;
+  text-align: center;
+}
+p {
+  color:#05070f;
+  font-size: 32px;
+  font-style: normal;
+  font-family: Helvetica;
+  margin: 2cm;
+  text-align: center;
+}
+h2 {
+  color:#111111;
+  font-size:20px;
+  font-style: normal;
+  margin: 1cm;
+  text-align: right;
+}
